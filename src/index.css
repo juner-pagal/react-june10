@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Designing Carousel box */
+.d-block {
+  width: 80%;
+  height: 80vh;
+}
+.cont-footer{
+  background-color: rgb(144, 183, 239);
+  padding: 50px;
+}
